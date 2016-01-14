@@ -1,0 +1,11 @@
+body {
+	background-color: #862d2d;
+}
+
+.jumbotron {
+	margin-bottom: 0px;
+    background-size: cover;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+	padding-left: 100px;
+}
