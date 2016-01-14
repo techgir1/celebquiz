@@ -9,3 +9,25 @@ body {
     text-shadow: black 0.3em 0.3em 0.3em;
 	padding-left: 100px;
 }
+
+#picture1 {
+  display: none;
+}
+
+#picture2 {
+  display: none;
+}
+
+#picture3 {
+  display: none;
+}
+
+#picture4 {
+  display: none;
+}
+
+#picture5 {
+  display: none;
+}
+
+
